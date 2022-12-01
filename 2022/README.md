@@ -20,5 +20,5 @@ I don't think I'll include unit tests for my code unless it ends up making it ea
 
 ---
 
-* FINE, I'm _rusty_
+\* FINE, I'm _rusty_
 
