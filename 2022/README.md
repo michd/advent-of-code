@@ -16,7 +16,7 @@ cat input.txt | cargo run
 
 I've added the `input.txt` to .gitignore so I don't accidentally commit it along with my code. I believe the input is probably different per user anyway.
 
-I don't think I'll include unit tests for my code unless it ends up making it easier. For simple ones it seems kinda pointless.
+I guess I am doing unit tests for parts of the challenges, as it's a very convenient way to test parts of my code on the examples given.
 
 ---
 
