@@ -17,3 +17,6 @@ Cargo.lock
 
 # For ease of use I'm sticking the input in each challenge's folder as `input.txt`
 input.txt
+
+# Started using IntelliJ IDEA with rust plugin instead of straight up vim
+.idea/
